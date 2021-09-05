@@ -16,6 +16,6 @@ The [second book](http://www.mlebook.com) by Andriy Burkov.
 
 ## Artificial Intelligence newsletter on LinkedIn
 
-One of the most popular weekly newsletters on AI with [more than 250,000 subscribers](https://www.linkedin.com/newsletters/artificial-intelligence-6598352935271358464/).
+One of the most popular weekly newsletters on AI with [more than 480,000 subscribers](https://www.linkedin.com/newsletters/artificial-intelligence-6598352935271358464/).
 
 ![Artificial Intelligence newsletter](https://user-images.githubusercontent.com/12722258/80272945-054a5880-869c-11ea-9543-bf66cf71302b.png)
